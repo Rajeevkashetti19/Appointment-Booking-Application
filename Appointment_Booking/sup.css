@@ -1,0 +1,25 @@
+
+    div { 
+        background-color: lightblue;
+        
+      }
+table,td
+{
+
+text-align: center;
+}
+th{
+    background-color: aqua;
+}
+h1
+{
+    background-color: aqua;
+	text-align: center;
+}
+
+td{
+	width: 100px;
+    height:100px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
